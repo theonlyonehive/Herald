@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+.env
+.env.*
+*.tsbuildinfo
+next-env.d.ts
+.vercel/
+.netlify/
+.data/
+logs/
+contracts/out/
+contracts/cache/

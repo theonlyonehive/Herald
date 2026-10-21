@@ -1,0 +1,31 @@
+{
+  "name": "herald",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Event webhooks for BOT Chain — watch an address or event, get a signed POST the moment it happens.",
+  "license": "MIT",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^11.1.4",
+    "ethers": "^6.17.0",
+    "next": "^16.4.1",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@netlify/plugin-nextjs": "^5.16.2",
+    "@types/node": "^26.6.5",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "typescript": "^5.9.0"
+  }
+}

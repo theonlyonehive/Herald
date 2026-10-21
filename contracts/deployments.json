@@ -1,0 +1,14 @@
+{
+  "968": {
+    "network": "BOT Chain Testnet",
+    "chainId": 968,
+    "rpc": "https://rpc.bohr.life",
+    "explorer": "https://scan.bohr.life",
+    "contract": "HeraldRegistry",
+    "address": "0x6FB73035c6C53f6BF22e8fD412e37850a746d1b6",
+    "txHash": "0xd2716279ab154fc7de8062fe9e97b817d0435a350dce9d0f2a2c61d901472961",
+    "block": 27066443,
+    "deployer": "0x42B3029B35e15cfC8eB34efEeDd01f26389Fc9B4",
+    "deployedAt": "2026-10-16T14:02:00.318Z"
+  }
+}
