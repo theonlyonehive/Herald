@@ -11,3 +11,5 @@ next-env.d.ts
 logs/
 contracts/out/
 contracts/cache/
+.vercel
+.env*

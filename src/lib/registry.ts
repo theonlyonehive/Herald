@@ -36,11 +36,11 @@ export const NETS: Record<NetId, NetDef> = {
     rpcUrl: "https://rpc.botchain.ai",
     explorer: "https://scan.botchain.ai",
     testnet: false,
-    registry: null, // deployed after testnet sign-off
+    registry: "0x84712449394794A103AC45e4d5129A276c150583",
   },
 };
 
-export const DEFAULT_NET: NetId = 968;
+export const DEFAULT_NET: NetId = 677;
 
 /** Minimal ABI — only what the browser actually calls. */
 export const REGISTRY_ABI = [

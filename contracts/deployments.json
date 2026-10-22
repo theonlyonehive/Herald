@@ -10,5 +10,16 @@
     "block": 27066443,
     "deployer": "0x42B3029B35e15cfC8eB34efEeDd01f26389Fc9B4",
     "deployedAt": "2026-10-16T14:02:00.318Z"
+  },
+  "677": {
+    "network": "BOT Chain Mainnet",
+    "chainId": 677,
+    "rpc": "https://rpc.botchain.ai",
+    "explorer": "https://scan.botchain.ai",
+    "contract": "HeraldRegistry",
+    "address": "0x84712449394794A103AC45e4d5129A276c150583",
+    "txHash": "0x8a1974144550fda846017c9ed4e2ebf7e09e65138ae4c4a772b0c948651e0793",
+    "deployer": "0x42B3029B35e15cfC8eB34efEeDd01f26389Fc9B4",
+    "deployedAt": "2026-10-22T16:35:00.000Z"
   }
 }
